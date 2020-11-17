@@ -1,5 +1,8 @@
 # MosquitoGenomeAnalysis
 
+<font size="5">**Initial plan for Simulated mosquito genome data analysis**</font>
+<img src="images/InitialPlan.png">
+
 
 + **Problem Statement:**
 
@@ -26,5 +29,5 @@ For genetic differentiation and population structure analysis I have used the so
 This software is also used for principal component analysis but the plots are drawn using R softwre. 
 
 
-<font size="5">**Initial plan for Simulated mosquito genome data analysis**</font>
-<img src="images/InitialPlan.png">
+
+
