@@ -10,7 +10,7 @@ After that few data sets have been produced from the simulated genome.
 Those simula data sets are then used for variant calling analysis.
 After that I compaired those produced vcf files with the orginal vcf and calculate the accuracy of selecting the variants. 
 
-<font size="5">**Initial plan for Simulated mosquito genome data analysis**</font>
++ **Initial plan for Simulated mosquito genome data analysis:**
 <img src="images/InitialPlan.png">
 
 
