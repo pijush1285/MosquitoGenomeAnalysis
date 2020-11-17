@@ -1,4 +1,4 @@
-# Mosquito_Genome_Analysis
+# MosquitoGenomeAnalysis
 
 
 + **Problem Statement:**
