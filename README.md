@@ -24,3 +24,7 @@ The DRAGEN server is used for variant calling. In this DRAGEN server We do not r
 We require only to write the basic script for vc provided in the DRAGEN manual.
 For genetic differentiation and population structure analysis I have used the software PLINK. 
 This software is also used for principal component analysis but the plots are drawn using R softwre. 
+
+
+<font size="5">**Initial plan for Simulated mosquito genome data analysis**</font>
+<img src="images/InitialPlan.png">
