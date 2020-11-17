@@ -39,6 +39,16 @@ We require only to write the basic script for vc provided in the DRAGEN manual.
 For genetic differentiation and population structure analysis I have used the software PLINK. 
 This software is also used for principal component analysis but the plots are drawn using R softwre. 
 
+Please see the link below for PCA. In this website there is details description. Please following the instructions in that website. 
+https://speciationgenomics.github.io/pca/
+
+PLINK 2.00 alpha can be used.
+https://www.cog-genomics.org/plink/2.0/
+
+After using the PLINK 2.00 I have used the R code.
+
+
+
 
 
 
