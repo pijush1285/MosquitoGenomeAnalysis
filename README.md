@@ -1,7 +1,16 @@
 # MosquitoGenomeAnalysis
 
++ **Basic hands on with Simulated mosquito genome DataSet:**
+Initially, I produced some simulated data sets using the RefSeq ID: GCF 002204515.2. 
+After that, I worked with the real mosquito gnome raw data sets. There are therefore some simple workflows generated to analyse (Variant calling) the mosquito genome data set.
+First, generated a simulated mosquito genome containing 1000000 randum variant inside it.
+After that few data sets have been produced from the simulated genome.
+Those simula data sets are then used for variant calling analysis.
+After that I compaired those produced vcf files with the orginal vcf and calculate the accuracy of selecting the variants. 
+
 <font size="5">**Initial plan for Simulated mosquito genome data analysis**</font>
 <img src="images/InitialPlan.png">
+
 
 
 + **Problem Statement:**
