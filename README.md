@@ -25,7 +25,7 @@ The aim is to find out if the genome of Pop 4 &5 is same as of pop1 or Pop2 & 3.
 
 + **Objectives:**
 
-I will sequence the entire genome of 5 samples from each population (Pop1-5) with 30X coverage and about 25 Aedes aegypti samples in total. 
+A total of 5 samples from each population (Pop1-5) with 30X coverage and about 25 Aedes aegypti samples are sequenced for the production of the sequence data set.
 The generated sequences are mapped with RefSeq ID: GCF_002204515.2. There are 3 chromosomes and 1 mitochondrial genome present in this reference genome.
 In addition, I compare genomes at the SNP level and use these data for population genomic analysis, such as principal component analysis, genetic 
 differentiation and population structure analysis. I am unable to perform an annotation work for non-human genomes because we do not have the 
